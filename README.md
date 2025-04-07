@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasnathumein
 - 👀 I’m interested in WEB/APP Development
-- 🌱 I’m currently learning React JS/ React Native
+- 🌱 I’m currently developing on MERN STACK
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 Contact: haxnaatali998@gmail.com
 
